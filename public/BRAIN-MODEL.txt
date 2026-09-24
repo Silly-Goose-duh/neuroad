@@ -1,0 +1,5 @@
+Anatomical brain model
+Source: Z-Anatomy / BodyParts3D (DBCLS), via the Brain Project atlas (itayinbarr/brainproject).
+License: CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/
+Credit: © Z-Anatomy contributors and BodyParts3D / DBCLS.
+Used here as a visual of a human brain. NeuroAd does not scan brains.
